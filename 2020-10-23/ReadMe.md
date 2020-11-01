@@ -23,6 +23,7 @@ If a community member has an idea and somehow lacks the man power on how impleme
 After a very deep dive into this dicussions, It was generally agreed upon that for us to help the community, we need to be able to
 - Identify each and every startup/developer/organisation/business that needs help
 - Identify each and every startup/developer/organisation/business that can provide help
+
 Both of the points above generally mean to be able to identify down to the skills level, each member of the TDC, be it a developer, a company, or any other entity. And by doing so, we can map a help provider to a help seeker.
 
 Example 1: If an entity is trying to find a company/developer that it can partner up with to assist in financial systems intergrations/development/auditing, then we (as a community), need to be able to identify entities that have experties in the finance field, that way, one can know who to partner up with
